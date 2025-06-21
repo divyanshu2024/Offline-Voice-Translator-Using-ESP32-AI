@@ -48,7 +48,8 @@ All reports, paper, and presentation files are in the [`Documentation/`](./Docum
 
 ## 🛠️ Setup Diagram
 
-![Hardware Setup](https://github.com/user-attachments/assets/21991b89-627d-40d4-9688-4e84bf2a5bcf)
+![image](https://github.com/user-attachments/assets/86a8e03f-2920-4737-9d3c-6953050ec5b6)
+
 
 ---
 
